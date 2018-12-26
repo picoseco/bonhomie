@@ -16037,6 +16037,12 @@ a.text-dark:focus {
 
 /** Import theme styles */
 
+/* line 5, resources/assets/styles/common/_global.scss */
+
+body {
+  padding-top: 8rem;
+}
+
 /* line 5, resources/assets/styles/components/_comments.scss */
 
 .comment-list ol {
