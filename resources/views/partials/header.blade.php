@@ -1,6 +1,6 @@
-<header class="banner">
+<header class="banner bg-primary">
   <div class="container">
-    <nav class="nav-primary navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="nav-primary navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
       <a class="navbar-brand" href="{{ home_url('/') }}">
         <img src="@asset('images/logo.png')" width="60" height="60" alt="{{ get_bloginfo('name', 'display') }}">
       </a>
