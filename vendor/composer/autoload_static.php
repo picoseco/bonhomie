@@ -10,6 +10,7 @@ class ComposerStaticInitbca895ddcd506d5c2267563ccd18fd09
         '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
         '72579e7bd17821bb1321b87411366eae' => __DIR__ . '/..' . '/illuminate/support/helpers.php',
         'beda72a3bff40d61ed819c75025fda66' => __DIR__ . '/..' . '/mwdelaney/sage-bootstrap4-navwalker/bootstrap4-navwalker.php',
+        '0f0b5ccc1239edeab469d29fee6d51ad' => __DIR__ . '/..' . '/roots/sage-woocommerce/src/woocommerce.php',
         'b50336562d531777993d90ca775abd88' => __DIR__ . '/..' . '/soberwp/controller/controller.php',
     );
 
